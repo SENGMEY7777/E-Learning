@@ -1,0 +1,2 @@
+// status.js
+module.exports = {};
