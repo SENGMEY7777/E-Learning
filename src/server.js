@@ -17,7 +17,8 @@ app.get('/', (req, res) => {
         name: 'E-learning',
         version: '1.0.0',
         status: 'online',
-        health: '/health'
+        health: '/health',
+        message: 'E-learning API is running'
     });
 });
 
